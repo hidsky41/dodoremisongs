@@ -1,0 +1,20 @@
+[
+	{
+		"id": "pack3",
+		"name": "Оригинальные песни",
+		"state": "idle",
+		"json": "original"
+	},
+	{
+		"id": "pack1",
+		"name": "Лучшие треки Тоби Фокса",
+		"state": "idle",
+		"json": "toby-fox"
+	},
+	{
+		"id": "pack4",
+		"name": "Крутые песни",
+		"state": "idle",
+		"json": "cools"
+	}
+]
