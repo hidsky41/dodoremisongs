@@ -7,14 +7,20 @@
 	},
 	{
 		"id": "pack1",
-		"name": "Лучшие треки Тоби Фокса",
+		"name": "Композиции Тоби Фокса (Undertale, Deltarune)",
 		"state": "idle",
 		"json": "toby-fox"
 	},
 	{
 		"id": "pack4",
-		"name": "Крутые песни",
+		"name": "The Legend of Zelda Soundtrack",
 		"state": "idle",
-		"json": "cools"
+		"json": "zelda"
+	},
+	{
+		"id": "pack5",
+		"name": "Альбом \"Камнем по голове\" группы Король и Шут",
+		"state": "idle",
+		"json": "kish"
 	}
 ]
