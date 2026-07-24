@@ -1,26 +1,32 @@
 [
 	{
-		"id": "pack3",
+		"id": "pack1",
 		"name": "Оригинальные песни",
 		"state": "idle",
 		"json": "original"
 	},
 	{
-		"id": "pack1",
+		"id": "pack2",
 		"name": "Композиции Тоби Фокса (Undertale, Deltarune)",
 		"state": "idle",
 		"json": "toby-fox"
 	},
 	{
-		"id": "pack4",
+		"id": "pack3",
 		"name": "The Legend of Zelda Soundtrack",
 		"state": "idle",
 		"json": "zelda"
 	},
 	{
-		"id": "pack5",
+		"id": "pack4",
 		"name": "Альбом \"Камнем по голове\" группы Король и Шут",
 		"state": "idle",
 		"json": "kish"
+	},
+	{
+		"id": "pack5",
+		"name": "Песни из мультфильмов Александра Татарского",
+		"state": "idle",
+		"json": "tatarskiy"
 	}
 ]
