@@ -28,5 +28,11 @@
 		"name": "Песни из мультфильмов Александра Татарского",
 		"state": "idle",
 		"json": "tatarskiy"
+	},
+	{
+		"id": "pack6",
+		"name": "Музыка из \"Тетради смерти\"",
+		"state": "idle",
+		"json": "death-note"
 	}
 ]
