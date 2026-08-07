@@ -34,5 +34,11 @@
 		"name": "Музыка из \"Тетради смерти\"",
 		"state": "idle",
 		"json": "death-note"
+	},
+	{
+		"id": "pack7",
+		"name": "Космическое безумие",
+		"state": "idle",
+		"json": "kozmos"
 	}
 ]
